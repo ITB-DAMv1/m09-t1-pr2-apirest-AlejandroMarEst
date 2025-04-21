@@ -7,5 +7,7 @@ A part de tot aixó també hi ha un xat en temps real exclusiu per els usuaris r
 La API té tres controladors que es comunican directament amb la base de dades, un pels usuaris, un altre per els jocs i un altre per els vots.
 
 # Diagrama de BBDD final
+Look at the img in this repository
 
 # Bibliografia
+Ruesga, Eduard, T1. Generació de serveis en xarxa. Drive. Recuperat el 18 del 04 de 2025 de [enllaç](https://docs.google.com/document/d/1kAl8YOME8d3nd1EDz-KWBzpKJbxkLfBBoFTOlOj5P2k/edit?tab=t.0#heading=h.twi71dtqdepq).
